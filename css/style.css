@@ -1,0 +1,22 @@
+.text{
+  font-size: 50px;
+  text-shadow: -15px 10px 5px gray;
+}
+
+.ikonnka{
+  text-align: center;
+
+}
+
+.container{
+  max-width: 1000px;
+}
+
+.rasm3{
+  margin-left: 150px;
+  padding-left: 50px;
+}
+.rasm1:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}

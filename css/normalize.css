@@ -1,0 +1,23 @@
+.text{
+  text-align: center;
+}
+
+
+.container{
+justify-content: space-between;
+
+}
+
+.rasm1{
+  padding: 50px;
+  margin-left: 150px;
+
+}
+
+.rasm2{
+  padding: 50px;
+}
+
+.link1:hover{
+background-color: lightgray;
+}
