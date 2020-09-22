@@ -1,23 +1,169 @@
+/* narsalarni ortaga surish blan ishlanadigan joy */
 .text{
   text-align: center;
 }
 
 
+
+.rasm12{
+  text-align: center;
+}
+
+
+
+.rasm34{
+  text-align: center;
+}
+
+
+
+
+.rasm56{
+  text-align: center;
+}
+
+
+
+
+.rasm78{
+  text-align: center;
+}
+
+
+
+
+
+
+.rasm910{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* rasmlani oraliq masofasi blan ishlanadigan joy */
 .container{
-justify-content: space-between;
+  justify-content: space-between;
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+/* rasmlada padding  blan ishlanadigan joy */
 .rasm1{
-  padding: 50px;
-  margin-left: 150px;
+  padding: 25px;
 
 }
+
+
+
+
 
 .rasm2{
-  padding: 50px;
+  padding: 25px;
+
 }
 
-.link1:hover{
-background-color: lightgray;
+
+
+
+
+
+
+
+
+.rasm3{
+
+  padding: 25px;
+}
+
+
+
+
+
+
+
+
+.rasm4{
+
+  padding: 25px;
+}
+
+
+
+
+
+.rasm5{
+
+  padding: 25px;
+}
+
+
+
+.rasm6{
+
+  padding: 25px;
+}
+
+
+
+
+.rasm7{
+
+  padding: 25px;
+}
+
+
+
+
+
+.rasm8{
+
+  padding: 25px;
+}
+
+
+
+
+
+
+.rasm9{
+
+  padding: 25px;
+}
+
+
+
+
+
+
+
+
+.rasm10{
+
+  padding: 25px;
 }

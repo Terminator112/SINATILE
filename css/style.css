@@ -1,8 +1,17 @@
+/* harflani shirifti blan ishlanadigan joy */
 .text{
   font-size: 50px;
-  text-shadow: -15px 10px 5px gray;
 }
 
+
+
+
+
+
+
+
+
+/* narsalarni o'rtaga keltirish, maximalniy joy berish blan ishlanadigan joy */
 .ikonnka{
   text-align: center;
 
@@ -12,11 +21,106 @@
   max-width: 1000px;
 }
 
-.rasm3{
-  margin-left: 150px;
-  padding-left: 50px;
-}
+
+
+
+
+
+
+
+/* hoverlar blan ishlanadigan joy */
 .rasm1:hover{
   background-color: lightgray;
   transition: 0.5s ease;
+
+}
+
+
+.rasm2:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+.rasm3:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+.rasm4:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+.rasm5:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+
+
+.rasm6:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+
+.rasm7:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+
+.rasm8:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+
+
+.rasm9:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+
+
+
+.rasm10:hover{
+  background-color: lightgray;
+  transition: 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* soyalar blan ishlanadigan joy */
+.text{
+  text-shadow: -15px 10px 5px gray;
 }
